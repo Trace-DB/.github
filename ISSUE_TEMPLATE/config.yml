@@ -1,0 +1,9 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Questions and community discussion
+    url: https://github.com/Trace-DB/tracedb/discussions
+    about: Use tracedb Discussions for questions, ideas, and community updates.
+  - name: Documentation
+    url: https://docs.trace-db.com
+    about: Read the public TraceDB docs.
+
