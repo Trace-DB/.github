@@ -4,7 +4,7 @@ TraceDB is an AI-native transactional candidate-stream database.
 
 ## Public Distribution
 
-- [`tracedb`](https://github.com/Trace-DB/tracedb): source-available core database distribution.
+- [`tracedb`](https://github.com/Trace-DB/tracedb): Apache-2.0 licensed core database distribution..
 - [`tracedb-protocol`](https://github.com/Trace-DB/tracedb-protocol): HTTP API, OpenAPI, platform contract, and conformance artifacts.
 - [`tracedb-js`](https://github.com/Trace-DB/tracedb-js): official TypeScript SDK.
 - [`tracedb-python`](https://github.com/Trace-DB/tracedb-python): official Python SDK.
